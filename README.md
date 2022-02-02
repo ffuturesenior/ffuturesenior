@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ffuturesenior
-- 👀 I’m interested in front development
-- 🌱 I’m currently learning front development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+aboba
+
 
 <!---
 ffuturesenior/ffuturesenior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
